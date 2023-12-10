@@ -5,7 +5,7 @@
 ## Introduction
 This is a power bi dashboard project on sales of pizza in **Coldstone Pizza Sales**.
 this project is to analyse and derive an insight of the total revenue,average order,
-total pizza sold,total order, Average Pizzas Per Order,Daily Trend for Total Orders,
+total pizza sold,total order, Average Pizzas Per Order,Daily Trend for total Orders,
 Monthly Trend for total Orders,percetage of sales by pizza category etc.
 
 **_Disclaimer_**:All dataset and do not represent any organisation but just a dummy 
@@ -21,7 +21,7 @@ dataset for practice.
 7. Total order
 8. Average Pizzas Per Order
 
-## Skills/Concept deemonstrated:
+## Skills/Concept demonstration:
 The following power bi features were incorporated
 - Bookmarking,
 - Dax,
