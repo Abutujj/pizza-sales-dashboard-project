@@ -28,6 +28,7 @@ The following power bi features were incorporated
 - quick measure
 - filter
 - tooltips
+- Navigate button
 
 ## Visualization:
 The dashboard consist of two pages:
