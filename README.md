@@ -8,7 +8,7 @@ this project is to analyse and derive an insight of the total revenue,average or
 total pizza sold,total order, Average Pizzas Per Order,Daily Trend for total Orders,
 Monthly Trend for total Orders,percetage of sales by pizza category etc.
 
-**_Disclaimer_**:All dataset and do not represent any organisation but just a dummy 
+**_Disclaimer_**:All dataset and report do not represent any organisation but just a dummy 
 dataset for practice.
 
 ## Problem Statement
