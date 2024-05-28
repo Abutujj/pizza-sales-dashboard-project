@@ -42,7 +42,6 @@ Total revenue = SUM(pizza_sales[total_price])
 ~~~
 
 
-
 ## Visualization:
 The dashboard consist of two pages:
 1.The home page
