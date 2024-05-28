@@ -30,6 +30,19 @@ The following power bi features were incorporated
 - tooltips
 - Navigate button
 
+## Dax Function
+~~~
+Avg orders = ([Total revenue]/[Total orders] )
+Avg pissa per order = ([Total pizza sold]/[Total orders])
+Order day = UPPER(LEFT(pizza_sales[Day Name],3))
+Order Month = UPPER(LEFT(pizza_sales[Month Name],3))
+Total orders = DISTINCTCOUNT(pizza_sales[order_id])
+Total pizza sold = SUM(pizza_sales[quantity])
+Total revenue = SUM(pizza_sales[total_price]) 
+~~~
+
+
+
 ## Visualization:
 The dashboard consist of two pages:
 1.The home page
